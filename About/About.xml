@@ -13,7 +13,7 @@
 		<li>Ludeon.RimWorld.Ideology</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.1[/h1]
+[h1]Mod Version: v1.2[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -62,6 +62,11 @@ Wow, so balanced.
 [*][Fix] Recipe no longer requires Components.
 [*][Nerf] Mood buff duration reduced from 24h to 12h.
 [*][Nerf] Mood buff reduced from 3 to 1.
+[/list]
+
+[b]v1.2[/b]
+[list]
+[*][Change] Milkshakes now belong to their own category under Food.
 [/list]
 	</description>
 </ModMetaData>
