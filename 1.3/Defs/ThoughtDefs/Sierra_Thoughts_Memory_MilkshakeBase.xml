@@ -3,12 +3,12 @@
 
   <ThoughtDef>
     <defName>Sierra_Thought_DrankMilkshake</defName>
-    <durationDays>1</durationDays>
+    <durationDays>0.5</durationDays>
     <stages>
       <li>
         <label>drank milkshake</label>
         <description>That was refreshing. Maybe I'll have another soon?</description>
-        <baseMoodEffect>3</baseMoodEffect>
+        <baseMoodEffect>1</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

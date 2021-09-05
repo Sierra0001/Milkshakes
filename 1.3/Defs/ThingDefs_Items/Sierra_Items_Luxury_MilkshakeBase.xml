@@ -3,7 +3,7 @@
 
   <ThingDef ParentName="ResourceBase">
     <defName>Sierra_Milkshake</defName>
-    <label>Milkshake</label>
+    <label>milkshake</label>
     <description>A delicious shaken drink. Needs little preperation and fulfills the need for recreation, but it is not very nutritious and deteriorate quickly if not preserved.</description>
     <graphicData>
       <texPath>Things/Item/Resource/Sierra_Milkshake</texPath>
@@ -15,7 +15,6 @@
     <socialPropernessMatters>true</socialPropernessMatters>
     <costList>
       <Milk>3</Milk>
-      <ComponentIndustrial>2</ComponentIndustrial>
     </costList>
     <statBases>
       <MaxHitPoints>60</MaxHitPoints>
