@@ -15,7 +15,7 @@ Wow, so balanced.
 
 ### Compatibility
 
-- Save Game Compatible
+- Compatible as long as you're not lactose intolerant.
 
 ### Links
 
