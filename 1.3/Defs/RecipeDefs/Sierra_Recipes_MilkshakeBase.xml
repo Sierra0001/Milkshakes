@@ -4,7 +4,7 @@
   <RecipeDef>
     <defName>Sierra_MakeMilkshakeSmall</defName>
     <label>make milkshakes x2</label>
-    <description>Make milkshakes, a delicious and healthy treat.</description>
+    <description>Make milkshakes, a tasty and healthy treat.</description>
     <jobString>Making milkshakes.</jobString>
     <workAmount>450</workAmount>
     <workSpeedStat>CookSpeed</workSpeedStat>
