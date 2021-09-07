@@ -7,7 +7,7 @@
     <stages>
       <li>
         <label>drank milkshake</label>
-        <description>That was refreshing. Maybe I'll have another soon?</description>
+        <description>That was nice. Maybe I'll have another soon?</description>
         <baseMoodEffect>1</baseMoodEffect>
       </li>
     </stages>

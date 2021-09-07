@@ -27,11 +27,6 @@
 				<count>3</count>
 			</li>
 		</ingredients>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>Milk</li>
-      </thingDefs>
-    </fixedIngredientFilter>
     <products>
       <Sierra_Milkshake>2</Sierra_Milkshake>
     </products>
@@ -42,10 +37,10 @@
 
   <RecipeDef>
     <defName>Sierra_MakeMilkshakeMedium</defName>
-    <label>make milkshakes x5</label>
+    <label>make milkshakes x6</label>
     <description>Make milkshakes, a delicious and healthy treat.\n\nThis recipe takes longer to complete but is more efficient in its use of ingredients.</description>
     <jobString>Making milkshakes.</jobString>
-    <workAmount>1125</workAmount>
+    <workAmount>1125</workAmount> <!-- x2.5 the basic recipe -->
     <workSpeedStat>CookSpeed</workSpeedStat>
     <workSkill>Cooking</workSkill>
     <effectWorking>Cook</effectWorking>
@@ -63,16 +58,11 @@
 						<li>Milk</li>
 					</thingDefs>
 				</filter>
-				<count>6</count>
+				<count>8</count>
 			</li>
 		</ingredients>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>Milk</li>
-      </thingDefs>
-    </fixedIngredientFilter>
     <products>
-      <Sierra_Milkshake>5</Sierra_Milkshake>
+      <Sierra_Milkshake>6</Sierra_Milkshake>
     </products>
     <skillRequirements>
         <Cooking>5</Cooking>

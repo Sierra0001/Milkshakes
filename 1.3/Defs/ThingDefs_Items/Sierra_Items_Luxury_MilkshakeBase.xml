@@ -18,9 +18,8 @@
     </costList>
     <statBases>
       <MaxHitPoints>60</MaxHitPoints>
-      <MarketValue>3</MarketValue>
+      <MarketValue>2.1375</MarketValue> <!-- Milk x1.5 (1.9) -> 75% -->
       <Mass>0.075</Mass>
-      <!--<WorkToMake>450</WorkToMake>-->
       <Flammability>1.0</Flammability>
       <DeteriorationRate>16</DeteriorationRate>
       <Nutrition>0.5</Nutrition>
