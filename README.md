@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.2.1)
+- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.3)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692)
 - [GitHub](https://github.com/Sierra0001/Milkshakes)
 
@@ -36,3 +36,5 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 - [Change] Milkshakes now belong to their own category under Food. (v1.2)
 - [Fix] Bulk recipe now uses appropriate amount of ingredients. (v1.2.1)
 - [Buff] Market value is now appropriate to the material costs. (v1.2.1)
+- [Fix] Pawns will now willingly drink milkshake for recreation. (v1.3)
+- [Change] Milkshake consumption is now it's own JoyKind. (v1.3)
