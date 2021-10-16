@@ -13,7 +13,7 @@
 		<li>Ludeon.RimWorld.Ideology</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.3[/h1]
+[h1]Mod Version: v1.4[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -65,28 +65,23 @@ Wow, so balanced.
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.1[/b]
-[list]
-[*][Fix] Recipe no longer requires Components.
-[*][Nerf] Mood buff duration reduced from 24h to 12h.
-[*][Nerf] Mood buff reduced from 3 to 1.
-[/list]
-
-[b]v1.2[/b]
-[list]
-[*][Change] Milkshakes now belong to their own category under Food.
-[/list]
-
-[b]v1.2.1[/b]
-[list]
-[*][Fix] Bulk recipe now uses appropriate amount of ingredients.
-[*][Buff] Market value is now appropriate to the material costs.
-[/list]
-
 [b]v1.3[/b]
 [list]
 [*][Fix] Pawns will now willingly drink milkshake for recreation.
 [*][Change] Milkshake consumption is now it's own JoyKind.
+[/list]
+
+[b]v1.4[/b]
+[list]
+[*][Change] Product from basic recipe reduced from 2 to 1.
+[*][Change] workAmount for basic recipe changed from 450 to 300.
+[*][Change] Basic ingredients required for basic recipe reduced from 6 to 4.
+[*][Change] Product from batch recipe reduced from 6 to 4.
+[*][Change] workAmount for batch recipe changed from 1250 to 1050.
+[*][Buff] Milkshake shelf life increased from 18 hours to 3 days.
+[*][Buff] Milkshake value increased from 2 to 9.
+[*][Buff] Milkshake nutrition increased from 0.10 to 0.15.
+[*][Nerf] Milkshake joy gain decreased from 0.50 to 0.15.
 [/list]
 	</description>
 </ModMetaData>

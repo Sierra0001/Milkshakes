@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.3)
+- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.4)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692)
 - [GitHub](https://github.com/Sierra0001/Milkshakes)
 
@@ -30,11 +30,12 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 
 ### Latest Changes
 
-- [Fix] Recipe no longer requires Components. (v1.1)
-- [Nerf] Mood buff duration reduced from 24h to 12h. (v1.1)
-- [Nerf] Mood buff reduced from 3 to 1. (v1.1)
-- [Change] Milkshakes now belong to their own category under Food. (v1.2)
-- [Fix] Bulk recipe now uses appropriate amount of ingredients. (v1.2.1)
-- [Buff] Market value is now appropriate to the material costs. (v1.2.1)
-- [Fix] Pawns will now willingly drink milkshake for recreation. (v1.3)
-- [Change] Milkshake consumption is now it's own JoyKind. (v1.3)
+- [Change] Product from basic recipe reduced from 2 to 1.
+- [Change] workAmount for basic recipe changed from 450 to 300.
+- [Change] Basic ingredients required for basic recipe reduced from 6 to 4.
+- [Change] Product from batch recipe reduced from 6 to 4.
+- [Change] workAmount for batch recipe changed from 1250 to 1050.
+- [Buff] Milkshake shelf life increased from 18 hours to 3 days.
+- [Buff] Milkshake value increased from 2 to 9.
+- [Buff] Milkshake nutrition increased from 0.10 to 0.15.
+- [Nerf] Milkshake joy gain decreased from 0.50 to 0.15.
