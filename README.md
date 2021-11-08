@@ -20,7 +20,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.4)
+- [Current Version](https://github.com/Sierra0001/Milkshakes/releases/tag/v1.4.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692)
 - [GitHub](https://github.com/Sierra0001/Milkshakes)
 
@@ -39,3 +39,4 @@ SirLalaPyon for his amazing, high-quality vanilla styled art.
 - [Buff] Milkshake value increased from 2 to 9.
 - [Buff] Milkshake nutrition increased from 0.10 to 0.15.
 - [Nerf] Milkshake joy gain decreased from 0.50 to 0.15.
+- [Update] Added support for Milkshake - Blueberry & Strawberry Edition

@@ -13,7 +13,7 @@
 		<li>Ludeon.RimWorld.Ideology</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.4[/h1]
+[h1]Mod Version: v1.4.1[/h1]
 
 
 My milkshake brings all the modders to the yard.
@@ -65,12 +65,6 @@ Wow, so balanced.
 
 
 [h1]Latest Changes:[/h1]
-[b]v1.3[/b]
-[list]
-[*][Fix] Pawns will now willingly drink milkshake for recreation.
-[*][Change] Milkshake consumption is now it's own JoyKind.
-[/list]
-
 [b]v1.4[/b]
 [list]
 [*][Change] Product from basic recipe reduced from 2 to 1.
@@ -82,6 +76,11 @@ Wow, so balanced.
 [*][Buff] Milkshake value increased from 2 to 9.
 [*][Buff] Milkshake nutrition increased from 0.10 to 0.15.
 [*][Nerf] Milkshake joy gain decreased from 0.50 to 0.15.
+[/list]
+
+[b]v1.4.1[/b]
+[list]
+[*][Update] Added support for Milkshake - Blueberry &amp; Strawberry Edition
 [/list]
 	</description>
 </ModMetaData>
